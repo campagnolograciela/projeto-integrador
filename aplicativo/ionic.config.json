@@ -1,0 +1,7 @@
+{
+  "name": "app-gestao-medicamentos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
