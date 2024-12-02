@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "5e87a0ac-ef11-44db-b1c5-402412b6e1a9",
+		"_postman_id": "a9b56bd0-e2ab-47fb-8d85-0fa4f7ded99c",
 		"name": "Gestão de Medicamentos",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "1142839"
+		"_exporter_id": "40079421"
 	},
 	"item": [
 		{
@@ -124,7 +124,119 @@
 		},
 		{
 			"name": "medicamentos",
-			"item": []
+			"item": [
+				{
+					"name": "Lista Medicamentos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/medicamentos",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"medicamentos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Salva Medicamento",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"nome\": \"Medicamento 1\",\r\n \"unidadeMedida\": \"ML\",\r\n \"dosagem\": \"10\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/medicamentos",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"medicamentos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Atualiza Medicamento",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"nome\": \"Medicamento 12\",\r\n \"unidadeMedida\": \"ML\",\r\n \"dosagem\": \"10\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/medicamentos/1",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"medicamentos",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Busca Medicamentos por id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/medicamentos/1",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"medicamentos",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Deleta Medicamentos",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/medicamentos/1",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"medicamentos",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
 		},
 		{
 			"name": "lembretes",
