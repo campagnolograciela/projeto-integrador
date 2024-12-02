@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+  <diagram name="Wireframes" id="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-3" value="Tela de Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-4" value="Logomarca" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-5" value="E-mail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="170" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-6" value="Senha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-7" value="Logar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="230" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-8" value="Registrar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-9" value="Esqueci minha senha" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-11" value="Tela de Cadastro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-12" value="Registre-se" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-13" value="E-mail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="187" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-14" value="Senha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="221" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-15" value="Registrar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="261" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-18" value="Nome" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-19" value="&amp;lt; Voltar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-21" value="Listagem medicamentos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-22" value="Medicamentos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="422" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-27" value="&amp;lt; Voltar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="450" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-32" value="Medicamento 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="452" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-34" value="Medicamento 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="490" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-35" value="Medicamento 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="530" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-36" value="Medicamento 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="574" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-37" value="Medicamento 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="58" y="620" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-38" value="Medicamento 6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="58" y="660" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-40" value="Medicamento 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="58" y="700" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="43" y="782" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="43" y="782" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-43" value="Listagem Lembretes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="113" y="752" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-44" value="Lembretes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="113" y="784" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-45" value="&amp;lt; Voltar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="43" y="782" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="193" y="782" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="53" y="812" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-48" value="Medicamento / Horário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="63" y="814" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-49" value="Medicamento / Horário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="63" y="852" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-50" value="Medicamento / Horário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="63" y="892" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-51" value="Medicamento / Horário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="936" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-52" value="Medicamento / Horário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="982" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-53" value="Medicamento / Horário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="1022" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-54" value="Medicamento / Horário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="1062" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="1139" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="1139" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-57" value="Histórico" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="111" y="1109" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-58" value="Histórico" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="111" y="1141" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-59" value="&amp;lt; Voltar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="41" y="1139" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51" y="1169" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-62" value="Medicamento / Horário / Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="1171" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-63" value="Medicamento / Horário / status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="1209" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-64" value="Medicamento / Horário / status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="1249" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-65" value="Medicamento / Horário / status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1293" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-66" value="Medicamento / Horário / status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="1339" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-67" value="Medicamento / Horário / status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="1379" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-68" value="Medicamento / Horário / status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="1419" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="421" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="421" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-85" value="Cadastro medicamentos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="391" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-86" value="Novo/Editar Medicamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="423" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-87" value="&amp;lt; Voltar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="281" y="421" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-100" value="Medida Dosagem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="537" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-101" value="Dosagem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="571" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-102" value="Salvar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="611" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-103" value="Nome" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="500" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-104" value="Excluir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="704" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="782" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="782" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-107" value="Cadastro Lembretes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="752" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-108" value="Novo/Editar Lembrete" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="784" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-109" value="&amp;lt; Voltar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="281" y="782" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-110" value="Mensagem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="898" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-112" value="Salvar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="972" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-113" value="Horário" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="861" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QbnZGi2tTbgCGeC1QqsA-114" value="Excluir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1065" width="55" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
